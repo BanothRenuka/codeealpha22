@@ -1,0 +1,12 @@
+{
+  "name": "iot-sensor-simulation",
+  "version": "1.0.0",
+  "description": "IoT Sensor Based Simulation Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
